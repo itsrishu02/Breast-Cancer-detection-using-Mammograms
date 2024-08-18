@@ -1,0 +1,16 @@
+Libraries used for Model-1
+---------------------------
+
+os
+json
+PIL
+torch
+torchvision
+tqdm 
+matplotlib.pyplot
+matplotlib.patches
+fasterrcnn_resnet50_fpn
+draw_bounding_boxes
+DataLoader
+functional
+transforms

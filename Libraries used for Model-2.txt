@@ -1,0 +1,17 @@
+Libraries used for Model-1
+---------------------------
+
+os
+torch
+torchvision
+matplotlib.pyplot
+draw_bounding_boxes
+DataLoader
+transforms
+random
+supervision
+DetrForObjectDetection
+pytorch_lightning
+COCO
+cv2
+DetrImageProcessor
